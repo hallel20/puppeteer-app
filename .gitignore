@@ -1,0 +1,14 @@
+#modules
+node_modules
+
+#lock files
+package-lock.json
+
+#Build
+dist/
+
+#Environment variables
+.env
+
+#log files
+*.log
